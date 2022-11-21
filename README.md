@@ -3,4 +3,5 @@
 Effortlessly deploy a Rendertron instance to Fly.io.
 
 1. Clone this repository
-2. Run `flyctl launch`
+1. Delete the `fly.toml` file
+1. Run `flyctl launch`
